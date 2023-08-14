@@ -31,9 +31,9 @@ assignees: ""
 ## environment
 
 <details>
-  <summary>python environment</summary>
+  <summary>environment</summary>
 
-output of `mamba info` and `mamba list` or `python --version` and `pip list`
+output of commands that provide information about your environment
 
 ```shell
 
